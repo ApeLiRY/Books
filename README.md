@@ -1,5 +1,5 @@
 # Books
-Some useful books on programming .
+Some books of high quality.
 
 **Menu**:
 
